@@ -1,0 +1,346 @@
+[
+    {
+        "mitre_id": "T1550.002",
+        "name": "Pass the Hash"
+    },
+    {
+        "mitre_id": "T1036",
+        "name": "Masquerading"
+    },
+    {
+        "mitre_id": "T1059.007",
+        "name": "JavaScript"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1072",
+        "name": "Software Deployment Tools"
+    },
+    {
+        "mitre_id": "T1570",
+        "name": "Lateral Tool Transfer"
+    },
+    {
+        "mitre_id": "T1564.004",
+        "name": "NTFS File Attributes"
+    },
+    {
+        "mitre_id": "T1552.002",
+        "name": "Credentials in Registry"
+    },
+    {
+        "mitre_id": "T1055",
+        "name": "Process Injection"
+    },
+    {
+        "mitre_id": "T1216.001",
+        "name": "PubPrn"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1135",
+        "name": "Network Share Discovery"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1571",
+        "name": "Non-Standard Port"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1094",
+        "name": "Custom Command and Control Protocol"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1012",
+        "name": "Query Registry"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1048.003",
+        "name": "Exfiltration Over Unencrypted Non-C2 Protocol"
+    },
+    {
+        "mitre_id": "T1574.002",
+        "name": "DLL Side-Loading"
+    },
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1598.003",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1087.001",
+        "name": "Local Account"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1608.004",
+        "name": "Drive-by Target"
+    },
+    {
+        "mitre_id": "T1041",
+        "name": "Exfiltration Over C2 Channel"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1003",
+        "name": "OS Credential Dumping"
+    },
+    {
+        "mitre_id": "T1078.003",
+        "name": "Local Accounts"
+    },
+    {
+        "mitre_id": "T1589",
+        "name": "Gather Victim Identity Information"
+    },
+    {
+        "mitre_id": "T1070.006",
+        "name": "Timestomp"
+    },
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    },
+    {
+        "mitre_id": "T1218.011",
+        "name": "Rundll32"
+    },
+    {
+        "mitre_id": "T1059",
+        "name": "Command and Scripting Interpreter"
+    },
+    {
+        "mitre_id": "T1112",
+        "name": "Modify Registry"
+    },
+    {
+        "mitre_id": "T1071.003",
+        "name": "Mail Protocols"
+    },
+    {
+        "mitre_id": "T1560",
+        "name": "Archive Collected Data"
+    },
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1070.001",
+        "name": "Clear Windows Event Logs"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1036.003",
+        "name": "Rename System Utilities"
+    },
+    {
+        "mitre_id": "T1543.003",
+        "name": "Windows Service"
+    },
+    {
+        "mitre_id": "T1608.001",
+        "name": "Upload Malware"
+    },
+    {
+        "mitre_id": "T1222.002",
+        "name": "Linux and Mac File and Directory Permissions Modification"
+    },
+    {
+        "mitre_id": "T1569.002",
+        "name": "Service Execution"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1218.005",
+        "name": "Mshta"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1021.002",
+        "name": "SMB/Windows Admin Shares"
+    },
+    {
+        "mitre_id": "T1550.003",
+        "name": "Pass the Ticket"
+    },
+    {
+        "mitre_id": "T1583.006",
+        "name": "Web Services"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1564.001",
+        "name": "Hidden Files and Directories"
+    },
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1027.001",
+        "name": "Binary Padding"
+    },
+    {
+        "mitre_id": "T1049",
+        "name": "System Network Connections Discovery"
+    },
+    {
+        "mitre_id": "T1564.003",
+        "name": "Hidden Window"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1218.010",
+        "name": "Regsvr32"
+    },
+    {
+        "mitre_id": "T1068",
+        "name": "Exploitation for Privilege Escalation"
+    },
+    {
+        "mitre_id": "T1585.001",
+        "name": "Social Media Accounts"
+    },
+    {
+        "mitre_id": "T1137",
+        "name": "Office Application Startup"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1065",
+        "name": "Uncommonly Used Port"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1102",
+        "name": "Web Service"
+    },
+    {
+        "mitre_id": "T1050",
+        "name": "New Service"
+    },
+    {
+        "mitre_id": "T1064",
+        "name": "Scripting"
+    },
+    {
+        "mitre_id": "T1031",
+        "name": "Modify Existing Service"
+    },
+    {
+        "mitre_id": "T1022",
+        "name": "Data Encrypted"
+    },
+    {
+        "mitre_id": "T1043",
+        "name": "Commonly Used Port"
+    },
+    {
+        "mitre_id": "T1087",
+        "name": "Account Discovery"
+    },
+    {
+        "mitre_id": "T1045",
+        "name": "Software Packing"
+    },
+    {
+        "mitre_id": "T1107",
+        "name": "File Deletion"
+    }
+]

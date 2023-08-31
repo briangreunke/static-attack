@@ -1,0 +1,78 @@
+[
+    {
+        "mitre_id": "T1057",
+        "name": "Process Discovery"
+    },
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1518.001",
+        "name": "Security Software Discovery"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1566.003",
+        "name": "Spearphishing via Service"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1518",
+        "name": "Software Discovery"
+    },
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1036.001",
+        "name": "Invalid Code Signature"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1036",
+        "name": "Masquerading"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    }
+]

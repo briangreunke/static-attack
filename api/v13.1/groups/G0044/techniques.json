@@ -1,0 +1,26 @@
+[
+    {
+        "mitre_id": "T1014",
+        "name": "Rootkit"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1057",
+        "name": "Process Discovery"
+    },
+    {
+        "mitre_id": "T1553.002",
+        "name": "Code Signing"
+    }
+]

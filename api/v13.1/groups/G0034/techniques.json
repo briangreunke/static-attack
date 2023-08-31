@@ -1,0 +1,286 @@
+[
+    {
+        "mitre_id": "T1588.006",
+        "name": "Vulnerabilities"
+    },
+    {
+        "mitre_id": "T1040",
+        "name": "Network Sniffing"
+    },
+    {
+        "mitre_id": "T1595.002",
+        "name": "Vulnerability Scanning"
+    },
+    {
+        "mitre_id": "T1585.001",
+        "name": "Social Media Accounts"
+    },
+    {
+        "mitre_id": "T1132.001",
+        "name": "Standard Encoding"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1090",
+        "name": "Proxy"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1041",
+        "name": "Exfiltration Over C2 Channel"
+    },
+    {
+        "mitre_id": "T1078.002",
+        "name": "Domain Accounts"
+    },
+    {
+        "mitre_id": "T1598.003",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1133",
+        "name": "External Remote Services"
+    },
+    {
+        "mitre_id": "T1587.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1584.005",
+        "name": "Botnet"
+    },
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1589.003",
+        "name": "Employee Names"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1110.003",
+        "name": "Password Spraying"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1505.001",
+        "name": "SQL Stored Procedures"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1583.004",
+        "name": "Server"
+    },
+    {
+        "mitre_id": "T1590.001",
+        "name": "Domain Properties"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1049",
+        "name": "System Network Connections Discovery"
+    },
+    {
+        "mitre_id": "T1555.003",
+        "name": "Credentials from Web Browsers"
+    },
+    {
+        "mitre_id": "T1571",
+        "name": "Non-Standard Port"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1087.003",
+        "name": "Email Account"
+    },
+    {
+        "mitre_id": "T1021.002",
+        "name": "SMB/Windows Admin Shares"
+    },
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1136.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1218.011",
+        "name": "Rundll32"
+    },
+    {
+        "mitre_id": "T1499",
+        "name": "Endpoint Denial of Service"
+    },
+    {
+        "mitre_id": "T1195.002",
+        "name": "Compromise Software Supply Chain"
+    },
+    {
+        "mitre_id": "T1199",
+        "name": "Trusted Relationship"
+    },
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1561.002",
+        "name": "Disk Structure Wipe"
+    },
+    {
+        "mitre_id": "T1592.002",
+        "name": "Software"
+    },
+    {
+        "mitre_id": "T1491.002",
+        "name": "External Defacement"
+    },
+    {
+        "mitre_id": "T1098",
+        "name": "Account Manipulation"
+    },
+    {
+        "mitre_id": "T1219",
+        "name": "Remote Access Software"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1594",
+        "name": "Search Victim-Owned Websites"
+    },
+    {
+        "mitre_id": "T1570",
+        "name": "Lateral Tool Transfer"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1591.002",
+        "name": "Business Relationships"
+    },
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1136",
+        "name": "Create Account"
+    },
+    {
+        "mitre_id": "T1585.002",
+        "name": "Email Accounts"
+    },
+    {
+        "mitre_id": "T1102.002",
+        "name": "Bidirectional Communication"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1027.002",
+        "name": "Software Packing"
+    },
+    {
+        "mitre_id": "T1140",
+        "name": "Deobfuscate/Decode Files or Information"
+    },
+    {
+        "mitre_id": "T1485",
+        "name": "Data Destruction"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1562.002",
+        "name": "Disable Windows Event Logging"
+    },
+    {
+        "mitre_id": "T1593",
+        "name": "Search Open Websites/Domains"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "mitre_id": "T1218.010",
+        "name": "Regsvr32"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1218.011",
+        "name": "Rundll32"
+    },
+    {
+        "mitre_id": "T1027.003",
+        "name": "Steganography"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1132.001",
+        "name": "Standard Encoding"
+    },
+    {
+        "mitre_id": "T1568.002",
+        "name": "Domain Generation Algorithms"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1218.005",
+        "name": "Mshta"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1036",
+        "name": "Masquerading"
+    }
+]

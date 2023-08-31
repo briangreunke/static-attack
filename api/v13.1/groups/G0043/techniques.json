@@ -1,0 +1,26 @@
+[
+    {
+        "mitre_id": "T1065",
+        "name": "Uncommonly Used Port"
+    },
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1113",
+        "name": "Screen Capture"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1045",
+        "name": "Software Packing"
+    }
+]

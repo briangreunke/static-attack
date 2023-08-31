@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1090.001",
+        "name": "Internal Proxy"
+    },
+    {
+        "mitre_id": "T1556.002",
+        "name": "Password Filter DLL"
+    },
+    {
+        "mitre_id": "T1564.005",
+        "name": "Hidden File System"
+    }
+]

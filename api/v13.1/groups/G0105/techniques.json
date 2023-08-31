@@ -1,0 +1,42 @@
+[
+    {
+        "mitre_id": "T1200",
+        "name": "Hardware Additions"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1543.003",
+        "name": "Windows Service"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1135",
+        "name": "Network Share Discovery"
+    },
+    {
+        "mitre_id": "T1110",
+        "name": "Brute Force"
+    },
+    {
+        "mitre_id": "T1219",
+        "name": "Remote Access Software"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1040",
+        "name": "Network Sniffing"
+    },
+    {
+        "mitre_id": "T1571",
+        "name": "Non-Standard Port"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1595.002",
+        "name": "Vulnerability Scanning"
+    },
+    {
+        "mitre_id": "T1595.003",
+        "name": "Wordlist Scanning"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    }
+]

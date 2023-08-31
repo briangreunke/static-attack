@@ -1,0 +1,38 @@
+[
+    {
+        "mitre_id": "T1199",
+        "name": "Trusted Relationship"
+    },
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    },
+    {
+        "mitre_id": "T1113",
+        "name": "Screen Capture"
+    },
+    {
+        "mitre_id": "T1219",
+        "name": "Remote Access Software"
+    },
+    {
+        "mitre_id": "T1195.002",
+        "name": "Compromise Software Supply Chain"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1133",
+        "name": "External Remote Services"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1566",
+        "name": "Phishing"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "mitre_id": "T1001.002",
+        "name": "Steganography"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1560",
+        "name": "Archive Collected Data"
+    },
+    {
+        "mitre_id": "T1584.005",
+        "name": "Botnet"
+    },
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    },
+    {
+        "mitre_id": "T1553",
+        "name": "Subvert Trust Controls"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1583.002",
+        "name": "DNS Server"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1583.003",
+        "name": "Virtual Private Server"
+    },
+    {
+        "mitre_id": "T1563.002",
+        "name": "RDP Hijacking"
+    },
+    {
+        "mitre_id": "T1546.008",
+        "name": "Accessibility Features"
+    },
+    {
+        "mitre_id": "T1566",
+        "name": "Phishing"
+    },
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    },
+    {
+        "mitre_id": "T1003",
+        "name": "OS Credential Dumping"
+    },
+    {
+        "mitre_id": "T1001",
+        "name": "Data Obfuscation"
+    }
+]

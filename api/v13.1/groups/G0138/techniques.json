@@ -1,0 +1,50 @@
+[
+    {
+        "mitre_id": "T1049",
+        "name": "System Network Connections Discovery"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1590.005",
+        "name": "IP Addresses"
+    },
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    },
+    {
+        "mitre_id": "T1057",
+        "name": "Process Discovery"
+    },
+    {
+        "mitre_id": "T1592.002",
+        "name": "Software"
+    },
+    {
+        "mitre_id": "T1588.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1027.003",
+        "name": "Steganography"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    }
+]

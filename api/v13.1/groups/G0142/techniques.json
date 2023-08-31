@@ -1,0 +1,78 @@
+[
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1567.002",
+        "name": "Exfiltration to Cloud Storage"
+    },
+    {
+        "mitre_id": "T1221",
+        "name": "Template Injection"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1119",
+        "name": "Automated Collection"
+    },
+    {
+        "mitre_id": "T1583.006",
+        "name": "Web Services"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1041",
+        "name": "Exfiltration Over C2 Channel"
+    },
+    {
+        "mitre_id": "T1218.005",
+        "name": "Mshta"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    }
+]

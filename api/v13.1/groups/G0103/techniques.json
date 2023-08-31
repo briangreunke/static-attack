@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    }
+]

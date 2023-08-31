@@ -1,0 +1,50 @@
+[
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1068",
+        "name": "Exploitation for Privilege Escalation"
+    },
+    {
+        "mitre_id": "T1094",
+        "name": "Custom Command and Control Protocol"
+    },
+    {
+        "mitre_id": "T1056.004",
+        "name": "Credential API Hooking"
+    },
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1095",
+        "name": "Non-Application Layer Protocol"
+    },
+    {
+        "mitre_id": "T1055",
+        "name": "Process Injection"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1036",
+        "name": "Masquerading"
+    }
+]

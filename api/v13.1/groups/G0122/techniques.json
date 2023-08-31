@@ -1,0 +1,54 @@
+[
+    {
+        "mitre_id": "T1588.004",
+        "name": "Digital Certificates"
+    },
+    {
+        "mitre_id": "T1594",
+        "name": "Search Victim-Owned Websites"
+    },
+    {
+        "mitre_id": "T1114",
+        "name": "Email Collection"
+    },
+    {
+        "mitre_id": "T1598.003",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1589.003",
+        "name": "Employee Names"
+    },
+    {
+        "mitre_id": "T1114.003",
+        "name": "Email Forwarding Rule"
+    },
+    {
+        "mitre_id": "T1585.002",
+        "name": "Email Accounts"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1608.005",
+        "name": "Link Target"
+    },
+    {
+        "mitre_id": "T1110.003",
+        "name": "Password Spraying"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    }
+]

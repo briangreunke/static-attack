@@ -1,0 +1,62 @@
+[
+    {
+        "mitre_id": "T1566.003",
+        "name": "Spearphishing via Service"
+    },
+    {
+        "mitre_id": "T1585.001",
+        "name": "Social Media Accounts"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1585.002",
+        "name": "Email Accounts"
+    },
+    {
+        "mitre_id": "T1102",
+        "name": "Web Service"
+    },
+    {
+        "mitre_id": "T1594",
+        "name": "Search Victim-Owned Websites"
+    },
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1597",
+        "name": "Search Closed Sources"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1593.001",
+        "name": "Social Media"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1608.001",
+        "name": "Upload Malware"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "mitre_id": "T1574.002",
+        "name": "DLL Side-Loading"
+    },
+    {
+        "mitre_id": "T1074.002",
+        "name": "Remote Data Staging"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1569.002",
+        "name": "Service Execution"
+    },
+    {
+        "mitre_id": "T1041",
+        "name": "Exfiltration Over C2 Channel"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1550.002",
+        "name": "Pass the Hash"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1106",
+        "name": "Native API"
+    },
+    {
+        "mitre_id": "T1556.001",
+        "name": "Domain Controller Authentication"
+    },
+    {
+        "mitre_id": "T1070.001",
+        "name": "Clear Windows Event Logs"
+    },
+    {
+        "mitre_id": "T1071.004",
+        "name": "DNS"
+    },
+    {
+        "mitre_id": "T1482",
+        "name": "Domain Trust Discovery"
+    },
+    {
+        "mitre_id": "T1560.001",
+        "name": "Archive via Utility"
+    },
+    {
+        "mitre_id": "T1021.006",
+        "name": "Windows Remote Management"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1057",
+        "name": "Process Discovery"
+    },
+    {
+        "mitre_id": "T1021.002",
+        "name": "SMB/Windows Admin Shares"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1003.003",
+        "name": "NTDS"
+    },
+    {
+        "mitre_id": "T1074.001",
+        "name": "Local Data Staging"
+    },
+    {
+        "mitre_id": "T1213.002",
+        "name": "Sharepoint"
+    },
+    {
+        "mitre_id": "T1135",
+        "name": "Network Share Discovery"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1570",
+        "name": "Lateral Tool Transfer"
+    },
+    {
+        "mitre_id": "T1007",
+        "name": "System Service Discovery"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1087.001",
+        "name": "Local Account"
+    },
+    {
+        "mitre_id": "T1572",
+        "name": "Protocol Tunneling"
+    },
+    {
+        "mitre_id": "T1078.002",
+        "name": "Domain Accounts"
+    },
+    {
+        "mitre_id": "T1069.001",
+        "name": "Local Groups"
+    },
+    {
+        "mitre_id": "T1124",
+        "name": "System Time Discovery"
+    },
+    {
+        "mitre_id": "T1201",
+        "name": "Password Policy Discovery"
+    },
+    {
+        "mitre_id": "T1049",
+        "name": "System Network Connections Discovery"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1110.003",
+        "name": "Password Spraying"
+    },
+    {
+        "mitre_id": "T1114.001",
+        "name": "Local Email Collection"
+    },
+    {
+        "mitre_id": "T1039",
+        "name": "Data from Network Shared Drive"
+    },
+    {
+        "mitre_id": "T1119",
+        "name": "Automated Collection"
+    },
+    {
+        "mitre_id": "T1133",
+        "name": "External Remote Services"
+    },
+    {
+        "mitre_id": "T1110.004",
+        "name": "Credential Stuffing"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1114.002",
+        "name": "Remote Email Collection"
+    },
+    {
+        "mitre_id": "T1012",
+        "name": "Query Registry"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1567.002",
+        "name": "Exfiltration to Cloud Storage"
+    },
+    {
+        "mitre_id": "T1070.006",
+        "name": "Timestomp"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1589.001",
+        "name": "Credentials"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1111",
+        "name": "Multi-Factor Authentication Interception"
+    },
+    {
+        "mitre_id": "T1217",
+        "name": "Browser Bookmark Discovery"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1102",
+        "name": "Web Service"
+    }
+]

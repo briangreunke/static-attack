@@ -1,0 +1,58 @@
+[
+    {
+        "mitre_id": "T1078.002",
+        "name": "Domain Accounts"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1518.001",
+        "name": "Security Software Discovery"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1137.006",
+        "name": "Add-ins"
+    },
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1574.002",
+        "name": "DLL Side-Loading"
+    }
+]

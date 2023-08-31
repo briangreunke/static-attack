@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    }
+]

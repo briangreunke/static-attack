@@ -1,0 +1,86 @@
+[
+    {
+        "mitre_id": "T1592.004",
+        "name": "Client Configurations"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1583.006",
+        "name": "Web Services"
+    },
+    {
+        "mitre_id": "T1560.001",
+        "name": "Archive via Utility"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1590",
+        "name": "Gather Victim Network Information"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1567.002",
+        "name": "Exfiltration to Cloud Storage"
+    },
+    {
+        "mitre_id": "T1114.002",
+        "name": "Remote Email Collection"
+    },
+    {
+        "mitre_id": "T1218.011",
+        "name": "Rundll32"
+    },
+    {
+        "mitre_id": "T1078.003",
+        "name": "Local Accounts"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1590.005",
+        "name": "IP Addresses"
+    },
+    {
+        "mitre_id": "T1003.003",
+        "name": "NTDS"
+    },
+    {
+        "mitre_id": "T1136.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    },
+    {
+        "mitre_id": "T1095",
+        "name": "Non-Application Layer Protocol"
+    },
+    {
+        "mitre_id": "T1132.001",
+        "name": "Standard Encoding"
+    },
+    {
+        "mitre_id": "T1583.003",
+        "name": "Virtual Private Server"
+    }
+]

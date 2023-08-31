@@ -1,0 +1,310 @@
+[
+    {
+        "mitre_id": "T1560",
+        "name": "Archive Collected Data"
+    },
+    {
+        "mitre_id": "T1113",
+        "name": "Screen Capture"
+    },
+    {
+        "mitre_id": "T1564.002",
+        "name": "Hidden Users"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1591.002",
+        "name": "Business Relationships"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1584.004",
+        "name": "Server"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1136.001",
+        "name": "Local Account"
+    },
+    {
+        "mitre_id": "T1221",
+        "name": "Template Injection"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1110.002",
+        "name": "Password Cracking"
+    },
+    {
+        "mitre_id": "T1608.004",
+        "name": "Drive-by Target"
+    },
+    {
+        "mitre_id": "T1562.004",
+        "name": "Disable or Modify System Firewall"
+    },
+    {
+        "mitre_id": "T1012",
+        "name": "Query Registry"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1003.002",
+        "name": "Security Account Manager"
+    },
+    {
+        "mitre_id": "T1598.002",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1070.001",
+        "name": "Clear Windows Event Logs"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1059",
+        "name": "Command and Scripting Interpreter"
+    },
+    {
+        "mitre_id": "T1112",
+        "name": "Modify Registry"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1195.002",
+        "name": "Compromise Software Supply Chain"
+    },
+    {
+        "mitre_id": "T1036",
+        "name": "Masquerading"
+    },
+    {
+        "mitre_id": "T1003.003",
+        "name": "NTDS"
+    },
+    {
+        "mitre_id": "T1098",
+        "name": "Account Manipulation"
+    },
+    {
+        "mitre_id": "T1583.003",
+        "name": "Virtual Private Server"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1071",
+        "name": "Application Layer Protocol"
+    },
+    {
+        "mitre_id": "T1598.003",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1069.002",
+        "name": "Domain Groups"
+    },
+    {
+        "mitre_id": "T1114.002",
+        "name": "Remote Email Collection"
+    },
+    {
+        "mitre_id": "T1595.002",
+        "name": "Vulnerability Scanning"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1133",
+        "name": "External Remote Services"
+    },
+    {
+        "mitre_id": "T1003.004",
+        "name": "LSA Secrets"
+    },
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    },
+    {
+        "mitre_id": "T1135",
+        "name": "Network Share Discovery"
+    },
+    {
+        "mitre_id": "T1110",
+        "name": "Brute Force"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1187",
+        "name": "Forced Authentication"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1074.001",
+        "name": "Local Data Staging"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1210",
+        "name": "Exploitation of Remote Services"
+    },
+    {
+        "mitre_id": "T1059.006",
+        "name": "Python"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1547.009",
+        "name": "Shortcut Modification"
+    },
+    {
+        "mitre_id": "T1566",
+        "name": "Phishing"
+    },
+    {
+        "mitre_id": "T1086",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1135",
+        "name": "Network Share Discovery"
+    },
+    {
+        "mitre_id": "T1043",
+        "name": "Commonly Used Port"
+    },
+    {
+        "mitre_id": "T1100",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1064",
+        "name": "Scripting"
+    },
+    {
+        "mitre_id": "T1076",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1136",
+        "name": "Create Account"
+    },
+    {
+        "mitre_id": "T1070",
+        "name": "Indicator Removal"
+    },
+    {
+        "mitre_id": "T1114",
+        "name": "Email Collection"
+    },
+    {
+        "mitre_id": "T1133",
+        "name": "External Remote Services"
+    },
+    {
+        "mitre_id": "T1036",
+        "name": "Masquerading"
+    },
+    {
+        "mitre_id": "T1187",
+        "name": "Forced Authentication"
+    },
+    {
+        "mitre_id": "T1113",
+        "name": "Screen Capture"
+    },
+    {
+        "mitre_id": "T1003",
+        "name": "OS Credential Dumping"
+    },
+    {
+        "mitre_id": "T1107",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1053",
+        "name": "Scheduled Task/Job"
+    },
+    {
+        "mitre_id": "T1089",
+        "name": "Disabling Security Tools"
+    },
+    {
+        "mitre_id": "T1110",
+        "name": "Brute Force"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    }
+]

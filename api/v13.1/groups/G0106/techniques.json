@@ -1,0 +1,146 @@
+[
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    },
+    {
+        "mitre_id": "T1014",
+        "name": "Rootkit"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1102",
+        "name": "Web Service"
+    },
+    {
+        "mitre_id": "T1562.004",
+        "name": "Disable or Modify System Firewall"
+    },
+    {
+        "mitre_id": "T1059.004",
+        "name": "Unix Shell"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1071",
+        "name": "Application Layer Protocol"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1496",
+        "name": "Resource Hijacking"
+    },
+    {
+        "mitre_id": "T1027.004",
+        "name": "Compile After Delivery"
+    },
+    {
+        "mitre_id": "T1574.006",
+        "name": "Dynamic Linker Hijacking"
+    },
+    {
+        "mitre_id": "T1564.001",
+        "name": "Hidden Files and Directories"
+    },
+    {
+        "mitre_id": "T1053.003",
+        "name": "Cron"
+    },
+    {
+        "mitre_id": "T1059.006",
+        "name": "Python"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1055.002",
+        "name": "Portable Executable Injection"
+    },
+    {
+        "mitre_id": "T1102.001",
+        "name": "Dead Drop Resolver"
+    },
+    {
+        "mitre_id": "T1037",
+        "name": "Boot or Logon Initialization Scripts"
+    },
+    {
+        "mitre_id": "T1027.002",
+        "name": "Software Packing"
+    },
+    {
+        "mitre_id": "T1070.002",
+        "name": "Clear Linux or Mac System Logs"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1222.002",
+        "name": "Linux and Mac File and Directory Permissions Modification"
+    },
+    {
+        "mitre_id": "T1057",
+        "name": "Process Discovery"
+    },
+    {
+        "mitre_id": "T1543.002",
+        "name": "Systemd Service"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1140",
+        "name": "Deobfuscate/Decode Files or Information"
+    },
+    {
+        "mitre_id": "T1562.001",
+        "name": "Disable or Modify Tools"
+    },
+    {
+        "mitre_id": "T1552.004",
+        "name": "Private Keys"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1571",
+        "name": "Non-Standard Port"
+    },
+    {
+        "mitre_id": "T1021.004",
+        "name": "SSH"
+    },
+    {
+        "mitre_id": "T1070.006",
+        "name": "Timestomp"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1518.001",
+        "name": "Security Software Discovery"
+    }
+]

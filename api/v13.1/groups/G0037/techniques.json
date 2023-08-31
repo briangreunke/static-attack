@@ -1,0 +1,170 @@
+[
+    {
+        "mitre_id": "T1560.003",
+        "name": "Archive via Custom Method"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1059",
+        "name": "Command and Scripting Interpreter"
+    },
+    {
+        "mitre_id": "T1572",
+        "name": "Protocol Tunneling"
+    },
+    {
+        "mitre_id": "T1213",
+        "name": "Data from Information Repositories"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1059.007",
+        "name": "JavaScript"
+    },
+    {
+        "mitre_id": "T1102",
+        "name": "Web Service"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1003.003",
+        "name": "NTDS"
+    },
+    {
+        "mitre_id": "T1134",
+        "name": "Access Token Manipulation"
+    },
+    {
+        "mitre_id": "T1562.001",
+        "name": "Disable or Modify Tools"
+    },
+    {
+        "mitre_id": "T1068",
+        "name": "Exploitation for Privilege Escalation"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1566.003",
+        "name": "Spearphishing via Service"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1560",
+        "name": "Archive Collected Data"
+    },
+    {
+        "mitre_id": "T1553.002",
+        "name": "Code Signing"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1119",
+        "name": "Automated Collection"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1569.002",
+        "name": "Service Execution"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1048.003",
+        "name": "Exfiltration Over Unencrypted Non-C2 Protocol"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1110.002",
+        "name": "Password Cracking"
+    },
+    {
+        "mitre_id": "T1555",
+        "name": "Credentials from Password Stores"
+    },
+    {
+        "mitre_id": "T1095",
+        "name": "Non-Application Layer Protocol"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1573.002",
+        "name": "Asymmetric Cryptography"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1555.003",
+        "name": "Credentials from Web Browsers"
+    },
+    {
+        "mitre_id": "T1074.002",
+        "name": "Remote Data Staging"
+    },
+    {
+        "mitre_id": "T1069.002",
+        "name": "Domain Groups"
+    },
+    {
+        "mitre_id": "T1074.001",
+        "name": "Local Data Staging"
+    }
+]

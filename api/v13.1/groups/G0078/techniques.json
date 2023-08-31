@@ -1,0 +1,70 @@
+[
+    {
+        "mitre_id": "T1055.012",
+        "name": "Process Hollowing"
+    },
+    {
+        "mitre_id": "T1140",
+        "name": "Deobfuscate/Decode Files or Information"
+    },
+    {
+        "mitre_id": "T1106",
+        "name": "Native API"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1564.003",
+        "name": "Hidden Window"
+    },
+    {
+        "mitre_id": "T1055.002",
+        "name": "Portable Executable Injection"
+    },
+    {
+        "mitre_id": "T1562.001",
+        "name": "Disable or Modify Tools"
+    },
+    {
+        "mitre_id": "T1112",
+        "name": "Modify Registry"
+    },
+    {
+        "mitre_id": "T1547.009",
+        "name": "Shortcut Modification"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1065",
+        "name": "Uncommonly Used Port"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    }
+]

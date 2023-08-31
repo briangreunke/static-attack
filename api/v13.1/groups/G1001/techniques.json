@@ -1,0 +1,142 @@
+[
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1555",
+        "name": "Credentials from Password Stores"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1589",
+        "name": "Gather Victim Identity Information"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1110",
+        "name": "Brute Force"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1567.002",
+        "name": "Exfiltration to Cloud Storage"
+    },
+    {
+        "mitre_id": "T1585.001",
+        "name": "Social Media Accounts"
+    },
+    {
+        "mitre_id": "T1016.001",
+        "name": "Internet Connection Discovery"
+    },
+    {
+        "mitre_id": "T1069.001",
+        "name": "Local Groups"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1586.002",
+        "name": "Email Accounts"
+    },
+    {
+        "mitre_id": "T1110.003",
+        "name": "Password Spraying"
+    },
+    {
+        "mitre_id": "T1102.002",
+        "name": "Bidirectional Communication"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1555.003",
+        "name": "Credentials from Web Browsers"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1608.001",
+        "name": "Upload Malware"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1585.002",
+        "name": "Email Accounts"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1049",
+        "name": "System Network Connections Discovery"
+    },
+    {
+        "mitre_id": "T1057",
+        "name": "Process Discovery"
+    },
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1518",
+        "name": "Software Discovery"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1010",
+        "name": "Application Window Discovery"
+    },
+    {
+        "mitre_id": "T1591.004",
+        "name": "Identify Roles"
+    },
+    {
+        "mitre_id": "T1583.002",
+        "name": "DNS Server"
+    },
+    {
+        "mitre_id": "T1534",
+        "name": "Internal Spearphishing"
+    }
+]

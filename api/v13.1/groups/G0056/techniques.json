@@ -1,0 +1,46 @@
+[
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1587.002",
+        "name": "Code Signing Certificates"
+    },
+    {
+        "mitre_id": "T1078.003",
+        "name": "Local Accounts"
+    },
+    {
+        "mitre_id": "T1587.003",
+        "name": "Digital Certificates"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1543.003",
+        "name": "Windows Service"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1553.002",
+        "name": "Code Signing"
+    },
+    {
+        "mitre_id": "T1205.001",
+        "name": "Port Knocking"
+    },
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    }
+]

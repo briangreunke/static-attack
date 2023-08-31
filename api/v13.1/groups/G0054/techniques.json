@@ -1,0 +1,38 @@
+[
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1039",
+        "name": "Data from Network Shared Drive"
+    },
+    {
+        "mitre_id": "T1560.001",
+        "name": "Archive via Utility"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1135",
+        "name": "Network Share Discovery"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1003",
+        "name": "OS Credential Dumping"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    }
+]

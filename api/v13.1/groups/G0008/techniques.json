@@ -1,0 +1,42 @@
+[
+    {
+        "mitre_id": "T1562.004",
+        "name": "Disable or Modify System Firewall"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1218.011",
+        "name": "Rundll32"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1102.002",
+        "name": "Bidirectional Communication"
+    },
+    {
+        "mitre_id": "T1543.003",
+        "name": "Windows Service"
+    },
+    {
+        "mitre_id": "T1219",
+        "name": "Remote Access Software"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1008",
+        "name": "Fallback Channels"
+    }
+]

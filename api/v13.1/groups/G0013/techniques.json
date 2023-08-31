@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    }
+]

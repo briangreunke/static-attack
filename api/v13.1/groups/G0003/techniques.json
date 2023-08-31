@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1557.002",
+        "name": "ARP Cache Poisoning"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1587.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1585.001",
+        "name": "Social Media Accounts"
+    }
+]

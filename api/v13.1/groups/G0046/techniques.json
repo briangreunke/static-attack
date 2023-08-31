@@ -1,0 +1,174 @@
+[
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1553.002",
+        "name": "Code Signing"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1059",
+        "name": "Command and Scripting Interpreter"
+    },
+    {
+        "mitre_id": "T1021.004",
+        "name": "SSH"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1021.005",
+        "name": "VNC"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1546.011",
+        "name": "Application Shimming"
+    },
+    {
+        "mitre_id": "T1559.002",
+        "name": "Dynamic Data Exchange"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1486",
+        "name": "Data Encrypted for Impact"
+    },
+    {
+        "mitre_id": "T1497.002",
+        "name": "User Activity Based Checks"
+    },
+    {
+        "mitre_id": "T1059.007",
+        "name": "JavaScript"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1125",
+        "name": "Video Capture"
+    },
+    {
+        "mitre_id": "T1571",
+        "name": "Non-Standard Port"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1218.005",
+        "name": "Mshta"
+    },
+    {
+        "mitre_id": "T1102.002",
+        "name": "Bidirectional Communication"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1543.003",
+        "name": "Windows Service"
+    },
+    {
+        "mitre_id": "T1091",
+        "name": "Replication Through Removable Media"
+    },
+    {
+        "mitre_id": "T1071.004",
+        "name": "DNS"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1008",
+        "name": "Fallback Channels"
+    },
+    {
+        "mitre_id": "T1558.003",
+        "name": "Kerberoasting"
+    },
+    {
+        "mitre_id": "T1113",
+        "name": "Screen Capture"
+    },
+    {
+        "mitre_id": "T1567.002",
+        "name": "Exfiltration to Cloud Storage"
+    },
+    {
+        "mitre_id": "T1210",
+        "name": "Exploitation of Remote Services"
+    },
+    {
+        "mitre_id": "T1587.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1043",
+        "name": "Commonly Used Port"
+    },
+    {
+        "mitre_id": "T1064",
+        "name": "Scripting"
+    },
+    {
+        "mitre_id": "T1023",
+        "name": "Shortcut Modification"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1566.001",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1202",
+        "name": "Indirect Command Execution"
+    },
+    {
+        "mitre_id": "T1048.003",
+        "name": "Exfiltration Over Unencrypted Non-C2 Protocol"
+    },
+    {
+        "mitre_id": "T1001.003",
+        "name": "Protocol Impersonation"
+    },
+    {
+        "mitre_id": "T1584.004",
+        "name": "Server"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1218.005",
+        "name": "Mshta"
+    },
+    {
+        "mitre_id": "T1584.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1010",
+        "name": "Application Window Discovery"
+    },
+    {
+        "mitre_id": "T1587.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1134.002",
+        "name": "Create Process with Token"
+    },
+    {
+        "mitre_id": "T1027.002",
+        "name": "Software Packing"
+    },
+    {
+        "mitre_id": "T1021.004",
+        "name": "SSH"
+    },
+    {
+        "mitre_id": "T1098",
+        "name": "Account Manipulation"
+    },
+    {
+        "mitre_id": "T1564.001",
+        "name": "Hidden Files and Directories"
+    },
+    {
+        "mitre_id": "T1485",
+        "name": "Data Destruction"
+    },
+    {
+        "mitre_id": "T1591",
+        "name": "Gather Victim Org Information"
+    },
+    {
+        "mitre_id": "T1106",
+        "name": "Native API"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1204.001",
+        "name": "Malicious Link"
+    },
+    {
+        "mitre_id": "T1012",
+        "name": "Query Registry"
+    },
+    {
+        "mitre_id": "T1090.002",
+        "name": "External Proxy"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1104",
+        "name": "Multi-Stage Channels"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1489",
+        "name": "Service Stop"
+    },
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1588.004",
+        "name": "Digital Certificates"
+    },
+    {
+        "mitre_id": "T1573.001",
+        "name": "Symmetric Cryptography"
+    },
+    {
+        "mitre_id": "T1082",
+        "name": "System Information Discovery"
+    },
+    {
+        "mitre_id": "T1591.004",
+        "name": "Identify Roles"
+    },
+    {
+        "mitre_id": "T1567.002",
+        "name": "Exfiltration to Cloud Storage"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1620",
+        "name": "Reflective Code Loading"
+    },
+    {
+        "mitre_id": "T1041",
+        "name": "Exfiltration Over C2 Channel"
+    },
+    {
+        "mitre_id": "T1102.002",
+        "name": "Bidirectional Communication"
+    },
+    {
+        "mitre_id": "T1560",
+        "name": "Archive Collected Data"
+    },
+    {
+        "mitre_id": "T1203",
+        "name": "Exploitation for Client Execution"
+    },
+    {
+        "mitre_id": "T1583.004",
+        "name": "Server"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1566.002",
+        "name": "Spearphishing Link"
+    },
+    {
+        "mitre_id": "T1074.001",
+        "name": "Local Data Staging"
+    },
+    {
+        "mitre_id": "T1608.002",
+        "name": "Upload Tool"
+    },
+    {
+        "mitre_id": "T1036.003",
+        "name": "Rename System Utilities"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1557.001",
+        "name": "LLMNR/NBT-NS Poisoning and SMB Relay"
+    },
+    {
+        "mitre_id": "T1057",
+        "name": "Process Discovery"
+    },
+    {
+        "mitre_id": "T1110",
+        "name": "Brute Force"
+    },
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1561.001",
+        "name": "Disk Content Wipe"
+    },
+    {
+        "mitre_id": "T1491.001",
+        "name": "Internal Defacement"
+    },
+    {
+        "mitre_id": "T1065",
+        "name": "Uncommonly Used Port"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1547.009",
+        "name": "Shortcut Modification"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1542.003",
+        "name": "Bootkit"
+    },
+    {
+        "mitre_id": "T1218.011",
+        "name": "Rundll32"
+    },
+    {
+        "mitre_id": "T1026",
+        "name": "Multiband Communication"
+    },
+    {
+        "mitre_id": "T1583.006",
+        "name": "Web Services"
+    },
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1571",
+        "name": "Non-Standard Port"
+    },
+    {
+        "mitre_id": "T1132.001",
+        "name": "Standard Encoding"
+    },
+    {
+        "mitre_id": "T1189",
+        "name": "Drive-by Compromise"
+    },
+    {
+        "mitre_id": "T1110.003",
+        "name": "Password Spraying"
+    },
+    {
+        "mitre_id": "T1204.002",
+        "name": "Malicious File"
+    },
+    {
+        "mitre_id": "T1553.002",
+        "name": "Code Signing"
+    },
+    {
+        "mitre_id": "T1218",
+        "name": "System Binary Proxy Execution"
+    },
+    {
+        "mitre_id": "T1593.001",
+        "name": "Social Media"
+    },
+    {
+        "mitre_id": "T1560.002",
+        "name": "Archive via Library"
+    },
+    {
+        "mitre_id": "T1027.007",
+        "name": "Dynamic API Resolution"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1090.001",
+        "name": "Internal Proxy"
+    },
+    {
+        "mitre_id": "T1220",
+        "name": "XSL Script Processing"
+    },
+    {
+        "mitre_id": "T1534",
+        "name": "Internal Spearphishing"
+    },
+    {
+        "mitre_id": "T1008",
+        "name": "Fallback Channels"
+    },
+    {
+        "mitre_id": "T1140",
+        "name": "Deobfuscate/Decode Files or Information"
+    },
+    {
+        "mitre_id": "T1562.001",
+        "name": "Disable or Modify Tools"
+    },
+    {
+        "mitre_id": "T1561.002",
+        "name": "Disk Structure Wipe"
+    },
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1562.004",
+        "name": "Disable or Modify System Firewall"
+    },
+    {
+        "mitre_id": "T1221",
+        "name": "Template Injection"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1566.003",
+        "name": "Spearphishing via Service"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1070",
+        "name": "Indicator Removal"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    },
+    {
+        "mitre_id": "T1574.013",
+        "name": "KernelCallbackTable"
+    },
+    {
+        "mitre_id": "T1055.001",
+        "name": "Dynamic-link Library Injection"
+    },
+    {
+        "mitre_id": "T1585.001",
+        "name": "Social Media Accounts"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1218.010",
+        "name": "Regsvr32"
+    },
+    {
+        "mitre_id": "T1497.001",
+        "name": "System Checks"
+    },
+    {
+        "mitre_id": "T1529",
+        "name": "System Shutdown/Reboot"
+    },
+    {
+        "mitre_id": "T1614.001",
+        "name": "System Language Discovery"
+    },
+    {
+        "mitre_id": "T1124",
+        "name": "System Time Discovery"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1070.006",
+        "name": "Timestomp"
+    },
+    {
+        "mitre_id": "T1070.003",
+        "name": "Clear Command History"
+    },
+    {
+        "mitre_id": "T1574.002",
+        "name": "DLL Side-Loading"
+    },
+    {
+        "mitre_id": "T1543.003",
+        "name": "Windows Service"
+    },
+    {
+        "mitre_id": "T1036",
+        "name": "Masquerading"
+    },
+    {
+        "mitre_id": "T1021.002",
+        "name": "SMB/Windows Admin Shares"
+    },
+    {
+        "mitre_id": "T1585.002",
+        "name": "Email Accounts"
+    },
+    {
+        "mitre_id": "T1608.001",
+        "name": "Upload Malware"
+    },
+    {
+        "mitre_id": "T1049",
+        "name": "System Network Connections Discovery"
+    },
+    {
+        "mitre_id": "T1560.003",
+        "name": "Archive via Custom Method"
+    },
+    {
+        "mitre_id": "T1588.003",
+        "name": "Code Signing Certificates"
+    },
+    {
+        "mitre_id": "T1043",
+        "name": "Commonly Used Port"
+    },
+    {
+        "mitre_id": "T1218.001",
+        "name": "Compiled HTML File"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1496",
+        "name": "Resource Hijacking"
+    },
+    {
+        "mitre_id": "T1218.005",
+        "name": "Mshta"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1566.003",
+        "name": "Spearphishing via Service"
+    },
+    {
+        "mitre_id": "T1547.005",
+        "name": "Security Support Provider"
+    },
+    {
+        "mitre_id": "T1027.002",
+        "name": "Software Packing"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1112",
+        "name": "Modify Registry"
+    },
+    {
+        "mitre_id": "T1064",
+        "name": "Scripting"
+    },
+    {
+        "mitre_id": "T1059",
+        "name": "Command and Scripting Interpreter"
+    },
+    {
+        "mitre_id": "T1024",
+        "name": "Custom Cryptographic Protocol"
+    },
+    {
+        "mitre_id": "T1094",
+        "name": "Custom Command and Control Protocol"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1564.005",
+        "name": "Hidden File System"
+    },
+    {
+        "mitre_id": "T1120",
+        "name": "Peripheral Device Discovery"
+    },
+    {
+        "mitre_id": "T1480.001",
+        "name": "Environmental Keying"
+    },
+    {
+        "mitre_id": "T1542.002",
+        "name": "Component Firmware"
+    },
+    {
+        "mitre_id": "T1109",
+        "name": "Component Firmware"
+    }
+]

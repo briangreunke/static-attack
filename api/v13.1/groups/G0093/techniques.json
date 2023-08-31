@@ -1,0 +1,130 @@
+[
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1003.002",
+        "name": "Security Account Manager"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1553.002",
+        "name": "Code Signing"
+    },
+    {
+        "mitre_id": "T1041",
+        "name": "Exfiltration Over C2 Channel"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1574.002",
+        "name": "DLL Side-Loading"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1047",
+        "name": "Windows Management Instrumentation"
+    },
+    {
+        "mitre_id": "T1136.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1583.004",
+        "name": "Server"
+    },
+    {
+        "mitre_id": "T1133",
+        "name": "External Remote Services"
+    },
+    {
+        "mitre_id": "T1027.002",
+        "name": "Software Packing"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1560.001",
+        "name": "Archive via Utility"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1570",
+        "name": "Lateral Tool Transfer"
+    },
+    {
+        "mitre_id": "T1027.005",
+        "name": "Indicator Removal from Tools"
+    },
+    {
+        "mitre_id": "T1090.002",
+        "name": "External Proxy"
+    },
+    {
+        "mitre_id": "T1049",
+        "name": "System Network Connections Discovery"
+    },
+    {
+        "mitre_id": "T1074.001",
+        "name": "Local Data Staging"
+    },
+    {
+        "mitre_id": "T1033",
+        "name": "System Owner/User Discovery"
+    },
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    },
+    {
+        "mitre_id": "T1016",
+        "name": "System Network Configuration Discovery"
+    },
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1550.002",
+        "name": "Pass the Hash"
+    },
+    {
+        "mitre_id": "T1036.003",
+        "name": "Rename System Utilities"
+    },
+    {
+        "mitre_id": "T1002",
+        "name": "Data Compressed"
+    }
+]

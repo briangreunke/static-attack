@@ -1,0 +1,146 @@
+[
+    {
+        "mitre_id": "T1589",
+        "name": "Gather Victim Identity Information"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1069.002",
+        "name": "Domain Groups"
+    },
+    {
+        "mitre_id": "T1213.001",
+        "name": "Confluence"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1485",
+        "name": "Data Destruction"
+    },
+    {
+        "mitre_id": "T1213.003",
+        "name": "Code Repositories"
+    },
+    {
+        "mitre_id": "T1213.002",
+        "name": "Sharepoint"
+    },
+    {
+        "mitre_id": "T1583.003",
+        "name": "Virtual Private Server"
+    },
+    {
+        "mitre_id": "T1591.004",
+        "name": "Identify Roles"
+    },
+    {
+        "mitre_id": "T1090",
+        "name": "Proxy"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1133",
+        "name": "External Remote Services"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1588.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1204",
+        "name": "User Execution"
+    },
+    {
+        "mitre_id": "T1593.003",
+        "name": "Code Repositories"
+    },
+    {
+        "mitre_id": "T1136.003",
+        "name": "Cloud Account"
+    },
+    {
+        "mitre_id": "T1114.003",
+        "name": "Email Forwarding Rule"
+    },
+    {
+        "mitre_id": "T1591.002",
+        "name": "Business Relationships"
+    },
+    {
+        "mitre_id": "T1578.003",
+        "name": "Delete Cloud Instance"
+    },
+    {
+        "mitre_id": "T1555.003",
+        "name": "Credentials from Web Browsers"
+    },
+    {
+        "mitre_id": "T1531",
+        "name": "Account Access Removal"
+    },
+    {
+        "mitre_id": "T1589.001",
+        "name": "Credentials"
+    },
+    {
+        "mitre_id": "T1068",
+        "name": "Exploitation for Privilege Escalation"
+    },
+    {
+        "mitre_id": "T1621",
+        "name": "Multi-Factor Authentication Request Generation"
+    },
+    {
+        "mitre_id": "T1098.003",
+        "name": "Additional Cloud Roles"
+    },
+    {
+        "mitre_id": "T1003.006",
+        "name": "DCSync"
+    },
+    {
+        "mitre_id": "T1213",
+        "name": "Data from Information Repositories"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1003.003",
+        "name": "NTDS"
+    },
+    {
+        "mitre_id": "T1199",
+        "name": "Trusted Relationship"
+    },
+    {
+        "mitre_id": "T1597.002",
+        "name": "Purchase Technical Data"
+    },
+    {
+        "mitre_id": "T1578.002",
+        "name": "Create Cloud Instance"
+    },
+    {
+        "mitre_id": "T1078.004",
+        "name": "Cloud Accounts"
+    },
+    {
+        "mitre_id": "T1111",
+        "name": "Multi-Factor Authentication Interception"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "mitre_id": "T1105",
+        "name": "Ingress Tool Transfer"
+    },
+    {
+        "mitre_id": "T1059",
+        "name": "Command and Scripting Interpreter"
+    },
+    {
+        "mitre_id": "T1530",
+        "name": "Data from Cloud Storage"
+    },
+    {
+        "mitre_id": "T1018",
+        "name": "Remote System Discovery"
+    },
+    {
+        "mitre_id": "T1110",
+        "name": "Brute Force"
+    },
+    {
+        "mitre_id": "T1210",
+        "name": "Exploitation of Remote Services"
+    },
+    {
+        "mitre_id": "T1136.001",
+        "name": "Local Account"
+    },
+    {
+        "mitre_id": "T1560.001",
+        "name": "Archive via Utility"
+    },
+    {
+        "mitre_id": "T1005",
+        "name": "Data from Local System"
+    },
+    {
+        "mitre_id": "T1585",
+        "name": "Establish Accounts"
+    },
+    {
+        "mitre_id": "T1021.005",
+        "name": "VNC"
+    },
+    {
+        "mitre_id": "T1552.001",
+        "name": "Credentials In Files"
+    },
+    {
+        "mitre_id": "T1217",
+        "name": "Browser Bookmark Discovery"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1027",
+        "name": "Obfuscated Files or Information"
+    },
+    {
+        "mitre_id": "T1213",
+        "name": "Data from Information Repositories"
+    },
+    {
+        "mitre_id": "T1021.002",
+        "name": "SMB/Windows Admin Shares"
+    },
+    {
+        "mitre_id": "T1190",
+        "name": "Exploit Public-Facing Application"
+    },
+    {
+        "mitre_id": "T1555.005",
+        "name": "Password Managers"
+    },
+    {
+        "mitre_id": "T1003.003",
+        "name": "NTDS"
+    },
+    {
+        "mitre_id": "T1087.001",
+        "name": "Local Account"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1021.004",
+        "name": "SSH"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1090",
+        "name": "Proxy"
+    },
+    {
+        "mitre_id": "T1012",
+        "name": "Query Registry"
+    },
+    {
+        "mitre_id": "T1572",
+        "name": "Protocol Tunneling"
+    },
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1102",
+        "name": "Web Service"
+    },
+    {
+        "mitre_id": "T1039",
+        "name": "Data from Network Shared Drive"
+    },
+    {
+        "mitre_id": "T1078",
+        "name": "Valid Accounts"
+    },
+    {
+        "mitre_id": "T1046",
+        "name": "Network Service Discovery"
+    },
+    {
+        "mitre_id": "T1546.008",
+        "name": "Accessibility Features"
+    },
+    {
+        "mitre_id": "T1585.001",
+        "name": "Social Media Accounts"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1083",
+        "name": "File and Directory Discovery"
+    }
+]
