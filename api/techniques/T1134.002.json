@@ -1,0 +1,5 @@
+{
+    "mitre_id": "T1134.002",
+    "name": "Create Process with Token",
+    "description": "Adversaries may create a new process with a different token to escalate privileges and bypass access controls. Processes can be created with the token and resulting security context of another user using features such as <code>CreateProcessWithTokenW</code> and <code>runas</code>.(Citation: Microsoft RunAs)\n\nCreating processes with a different token may require the credentials of the target user, specific privileges to impersonate that user, or access to the token to be used (ex: gathered via other means such as [Token Impersonation/Theft](https://attack.mitre.org/techniques/T1134/001) or [Make and Impersonate Token](https://attack.mitre.org/techniques/T1134/003))."
+}

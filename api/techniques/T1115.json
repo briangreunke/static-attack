@@ -1,0 +1,5 @@
+{
+    "mitre_id": "T1115",
+    "name": "Clipboard Data",
+    "description": "Adversaries may collect data stored in the clipboard from users copying information within or between applications. \n\nIn Windows, Applications can access clipboard data by using the Windows API.(Citation: MSDN Clipboard) OSX provides a native command, <code>pbpaste</code>, to grab clipboard contents.(Citation: Operating with EmPyre)"
+}

@@ -1,0 +1,5 @@
+{
+    "mitre_id": "G0046",
+    "name": "FIN7",
+    "description": "[FIN7](https://attack.mitre.org/groups/G0046) is a financially-motivated threat group that has been active since 2013 primarily targeting the U.S. retail, restaurant, and hospitality sectors, often using point-of-sale malware. A portion of [FIN7](https://attack.mitre.org/groups/G0046) was run out of a front company called Combi Security. Since 2020 [FIN7](https://attack.mitre.org/groups/G0046) shifted operations to a big game hunting (BGH) approach including use of [REvil](https://attack.mitre.org/software/S0496) ransomware and their own Ransomware as a Service (RaaS), Darkside. [FIN7](https://attack.mitre.org/groups/G0046) may be linked to the [Carbanak](https://attack.mitre.org/groups/G0008) Group, but there appears to be several groups using [Carbanak](https://attack.mitre.org/software/S0030) malware and are therefore tracked separately.(Citation: FireEye FIN7 March 2017)(Citation: FireEye FIN7 April 2017)(Citation: FireEye CARBANAK June 2017)(Citation: FireEye FIN7 Aug 2018)(Citation: CrowdStrike Carbon Spider August 2021)"
+}
