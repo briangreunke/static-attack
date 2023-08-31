@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1598.001",
+        "name": "Spearphishing Service"
+    },
+    {
+        "mitre_id": "T1598.002",
+        "name": "Spearphishing Attachment"
+    },
+    {
+        "mitre_id": "T1598.003",
+        "name": "Spearphishing Link"
+    }
+]

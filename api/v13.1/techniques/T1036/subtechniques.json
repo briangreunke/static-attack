@@ -1,0 +1,30 @@
+[
+    {
+        "mitre_id": "T1036.001",
+        "name": "Invalid Code Signature"
+    },
+    {
+        "mitre_id": "T1036.002",
+        "name": "Right-to-Left Override"
+    },
+    {
+        "mitre_id": "T1036.003",
+        "name": "Rename System Utilities"
+    },
+    {
+        "mitre_id": "T1036.004",
+        "name": "Masquerade Task or Service"
+    },
+    {
+        "mitre_id": "T1036.005",
+        "name": "Match Legitimate Name or Location"
+    },
+    {
+        "mitre_id": "T1036.006",
+        "name": "Space after Filename"
+    },
+    {
+        "mitre_id": "T1036.007",
+        "name": "Double File Extension"
+    }
+]

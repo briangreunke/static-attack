@@ -1,0 +1,6 @@
+[
+    {
+        "mitre_id": "T1052.001",
+        "name": "Exfiltration over USB"
+    }
+]

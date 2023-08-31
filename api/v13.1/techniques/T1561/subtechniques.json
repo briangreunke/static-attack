@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1561.001",
+        "name": "Disk Content Wipe"
+    },
+    {
+        "mitre_id": "T1561.002",
+        "name": "Disk Structure Wipe"
+    }
+]

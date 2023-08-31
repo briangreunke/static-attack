@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1557.001",
+        "name": "LLMNR/NBT-NS Poisoning and SMB Relay"
+    },
+    {
+        "mitre_id": "T1557.002",
+        "name": "ARP Cache Poisoning"
+    },
+    {
+        "mitre_id": "T1557.003",
+        "name": "DHCP Spoofing"
+    }
+]

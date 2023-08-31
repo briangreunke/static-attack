@@ -1,0 +1,42 @@
+[
+    {
+        "mitre_id": "T1564.001",
+        "name": "Hidden Files and Directories"
+    },
+    {
+        "mitre_id": "T1564.002",
+        "name": "Hidden Users"
+    },
+    {
+        "mitre_id": "T1564.003",
+        "name": "Hidden Window"
+    },
+    {
+        "mitre_id": "T1564.004",
+        "name": "NTFS File Attributes"
+    },
+    {
+        "mitre_id": "T1564.005",
+        "name": "Hidden File System"
+    },
+    {
+        "mitre_id": "T1564.006",
+        "name": "Run Virtual Instance"
+    },
+    {
+        "mitre_id": "T1564.007",
+        "name": "VBA Stomping"
+    },
+    {
+        "mitre_id": "T1564.008",
+        "name": "Email Hiding Rules"
+    },
+    {
+        "mitre_id": "T1564.009",
+        "name": "Resource Forking"
+    },
+    {
+        "mitre_id": "T1564.010",
+        "name": "Process Argument Spoofing"
+    }
+]

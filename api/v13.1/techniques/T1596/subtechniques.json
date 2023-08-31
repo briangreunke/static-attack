@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1596.001",
+        "name": "DNS/Passive DNS"
+    },
+    {
+        "mitre_id": "T1596.002",
+        "name": "WHOIS"
+    },
+    {
+        "mitre_id": "T1596.003",
+        "name": "Digital Certificates"
+    },
+    {
+        "mitre_id": "T1596.004",
+        "name": "CDNs"
+    },
+    {
+        "mitre_id": "T1596.005",
+        "name": "Scan Databases"
+    }
+]

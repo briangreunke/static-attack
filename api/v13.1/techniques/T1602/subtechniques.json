@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1602.001",
+        "name": "SNMP (MIB Dump)"
+    },
+    {
+        "mitre_id": "T1602.002",
+        "name": "Network Device Configuration Dump"
+    }
+]

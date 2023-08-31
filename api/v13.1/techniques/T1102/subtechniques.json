@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1102.001",
+        "name": "Dead Drop Resolver"
+    },
+    {
+        "mitre_id": "T1102.002",
+        "name": "Bidirectional Communication"
+    },
+    {
+        "mitre_id": "T1102.003",
+        "name": "One-Way Communication"
+    }
+]

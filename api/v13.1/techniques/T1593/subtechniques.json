@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1593.001",
+        "name": "Social Media"
+    },
+    {
+        "mitre_id": "T1593.002",
+        "name": "Search Engines"
+    },
+    {
+        "mitre_id": "T1593.003",
+        "name": "Code Repositories"
+    }
+]

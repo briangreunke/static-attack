@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1591.001",
+        "name": "Determine Physical Locations"
+    },
+    {
+        "mitre_id": "T1591.002",
+        "name": "Business Relationships"
+    },
+    {
+        "mitre_id": "T1591.003",
+        "name": "Identify Business Tempo"
+    },
+    {
+        "mitre_id": "T1591.004",
+        "name": "Identify Roles"
+    }
+]

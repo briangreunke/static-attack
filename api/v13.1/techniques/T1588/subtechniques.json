@@ -1,0 +1,26 @@
+[
+    {
+        "mitre_id": "T1588.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1588.002",
+        "name": "Tool"
+    },
+    {
+        "mitre_id": "T1588.003",
+        "name": "Code Signing Certificates"
+    },
+    {
+        "mitre_id": "T1588.004",
+        "name": "Digital Certificates"
+    },
+    {
+        "mitre_id": "T1588.005",
+        "name": "Exploits"
+    },
+    {
+        "mitre_id": "T1588.006",
+        "name": "Vulnerabilities"
+    }
+]

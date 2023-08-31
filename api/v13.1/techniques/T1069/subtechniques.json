@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1069.001",
+        "name": "Local Groups"
+    },
+    {
+        "mitre_id": "T1069.002",
+        "name": "Domain Groups"
+    },
+    {
+        "mitre_id": "T1069.003",
+        "name": "Cloud Groups"
+    }
+]

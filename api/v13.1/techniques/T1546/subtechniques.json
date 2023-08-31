@@ -1,0 +1,66 @@
+[
+    {
+        "mitre_id": "T1546.001",
+        "name": "Change Default File Association"
+    },
+    {
+        "mitre_id": "T1546.002",
+        "name": "Screensaver"
+    },
+    {
+        "mitre_id": "T1546.003",
+        "name": "Windows Management Instrumentation Event Subscription"
+    },
+    {
+        "mitre_id": "T1546.004",
+        "name": "Unix Shell Configuration Modification"
+    },
+    {
+        "mitre_id": "T1546.005",
+        "name": "Trap"
+    },
+    {
+        "mitre_id": "T1546.006",
+        "name": "LC_LOAD_DYLIB Addition"
+    },
+    {
+        "mitre_id": "T1546.007",
+        "name": "Netsh Helper DLL"
+    },
+    {
+        "mitre_id": "T1546.008",
+        "name": "Accessibility Features"
+    },
+    {
+        "mitre_id": "T1546.009",
+        "name": "AppCert DLLs"
+    },
+    {
+        "mitre_id": "T1546.010",
+        "name": "AppInit DLLs"
+    },
+    {
+        "mitre_id": "T1546.011",
+        "name": "Application Shimming"
+    },
+    {
+        "mitre_id": "T1546.012",
+        "name": "Image File Execution Options Injection"
+    },
+    {
+        "mitre_id": "T1546.013",
+        "name": "PowerShell Profile"
+    },
+    {
+        "mitre_id": "T1546.014",
+        "name": "Emond"
+    },
+    {
+        "mitre_id": "T1546.015",
+        "name": "Component Object Model Hijacking"
+    },
+    {
+        "mitre_id": "T1546.016",
+        "name": "Installer Packages"
+    }
+]

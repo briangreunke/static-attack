@@ -1,0 +1,26 @@
+[
+    {
+        "mitre_id": "T1137.001",
+        "name": "Office Template Macros"
+    },
+    {
+        "mitre_id": "T1137.002",
+        "name": "Office Test"
+    },
+    {
+        "mitre_id": "T1137.003",
+        "name": "Outlook Forms"
+    },
+    {
+        "mitre_id": "T1137.004",
+        "name": "Outlook Home Page"
+    },
+    {
+        "mitre_id": "T1137.005",
+        "name": "Outlook Rules"
+    },
+    {
+        "mitre_id": "T1137.006",
+        "name": "Add-ins"
+    }
+]

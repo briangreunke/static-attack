@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1087.001",
+        "name": "Local Account"
+    },
+    {
+        "mitre_id": "T1087.002",
+        "name": "Domain Account"
+    },
+    {
+        "mitre_id": "T1087.003",
+        "name": "Email Account"
+    },
+    {
+        "mitre_id": "T1087.004",
+        "name": "Cloud Account"
+    }
+]

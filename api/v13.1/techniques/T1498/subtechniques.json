@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1498.001",
+        "name": "Direct Network Flood"
+    },
+    {
+        "mitre_id": "T1498.002",
+        "name": "Reflection Amplification"
+    }
+]

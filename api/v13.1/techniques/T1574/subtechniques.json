@@ -1,0 +1,50 @@
+[
+    {
+        "mitre_id": "T1574.001",
+        "name": "DLL Search Order Hijacking"
+    },
+    {
+        "mitre_id": "T1574.002",
+        "name": "DLL Side-Loading"
+    },
+    {
+        "mitre_id": "T1574.004",
+        "name": "Dylib Hijacking"
+    },
+    {
+        "mitre_id": "T1574.005",
+        "name": "Executable Installer File Permissions Weakness"
+    },
+    {
+        "mitre_id": "T1574.006",
+        "name": "Dynamic Linker Hijacking"
+    },
+    {
+        "mitre_id": "T1574.007",
+        "name": "Path Interception by PATH Environment Variable"
+    },
+    {
+        "mitre_id": "T1574.008",
+        "name": "Path Interception by Search Order Hijacking"
+    },
+    {
+        "mitre_id": "T1574.009",
+        "name": "Path Interception by Unquoted Path"
+    },
+    {
+        "mitre_id": "T1574.010",
+        "name": "Services File Permissions Weakness"
+    },
+    {
+        "mitre_id": "T1574.011",
+        "name": "Services Registry Permissions Weakness"
+    },
+    {
+        "mitre_id": "T1574.012",
+        "name": "COR_PROFILER"
+    },
+    {
+        "mitre_id": "T1574.013",
+        "name": "KernelCallbackTable"
+    }
+]

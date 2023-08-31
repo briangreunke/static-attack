@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1560.001",
+        "name": "Archive via Utility"
+    },
+    {
+        "mitre_id": "T1560.002",
+        "name": "Archive via Library"
+    },
+    {
+        "mitre_id": "T1560.003",
+        "name": "Archive via Custom Method"
+    }
+]

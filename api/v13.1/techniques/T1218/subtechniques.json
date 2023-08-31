@@ -1,0 +1,54 @@
+[
+    {
+        "mitre_id": "T1218.001",
+        "name": "Compiled HTML File"
+    },
+    {
+        "mitre_id": "T1218.002",
+        "name": "Control Panel"
+    },
+    {
+        "mitre_id": "T1218.003",
+        "name": "CMSTP"
+    },
+    {
+        "mitre_id": "T1218.004",
+        "name": "InstallUtil"
+    },
+    {
+        "mitre_id": "T1218.005",
+        "name": "Mshta"
+    },
+    {
+        "mitre_id": "T1218.007",
+        "name": "Msiexec"
+    },
+    {
+        "mitre_id": "T1218.008",
+        "name": "Odbcconf"
+    },
+    {
+        "mitre_id": "T1218.009",
+        "name": "Regsvcs/Regasm"
+    },
+    {
+        "mitre_id": "T1218.010",
+        "name": "Regsvr32"
+    },
+    {
+        "mitre_id": "T1218.011",
+        "name": "Rundll32"
+    },
+    {
+        "mitre_id": "T1218.012",
+        "name": "Verclsid"
+    },
+    {
+        "mitre_id": "T1218.013",
+        "name": "Mavinject"
+    },
+    {
+        "mitre_id": "T1218.014",
+        "name": "MMC"
+    }
+]

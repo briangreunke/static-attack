@@ -1,0 +1,30 @@
+[
+    {
+        "mitre_id": "T1053.001",
+        "name": "At (Linux)"
+    },
+    {
+        "mitre_id": "T1053.002",
+        "name": "At"
+    },
+    {
+        "mitre_id": "T1053.003",
+        "name": "Cron"
+    },
+    {
+        "mitre_id": "T1053.004",
+        "name": "Launchd"
+    },
+    {
+        "mitre_id": "T1053.005",
+        "name": "Scheduled Task"
+    },
+    {
+        "mitre_id": "T1053.006",
+        "name": "Systemd Timers"
+    },
+    {
+        "mitre_id": "T1053.007",
+        "name": "Container Orchestration Job"
+    }
+]

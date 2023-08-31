@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1491.001",
+        "name": "Internal Defacement"
+    },
+    {
+        "mitre_id": "T1491.002",
+        "name": "External Defacement"
+    }
+]

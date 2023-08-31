@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1098.001",
+        "name": "Additional Cloud Credentials"
+    },
+    {
+        "mitre_id": "T1098.002",
+        "name": "Additional Email Delegate Permissions"
+    },
+    {
+        "mitre_id": "T1098.003",
+        "name": "Additional Cloud Roles"
+    },
+    {
+        "mitre_id": "T1098.004",
+        "name": "SSH Authorized Keys"
+    },
+    {
+        "mitre_id": "T1098.005",
+        "name": "Device Registration"
+    }
+]

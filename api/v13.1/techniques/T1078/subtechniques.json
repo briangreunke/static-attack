@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1078.001",
+        "name": "Default Accounts"
+    },
+    {
+        "mitre_id": "T1078.002",
+        "name": "Domain Accounts"
+    },
+    {
+        "mitre_id": "T1078.003",
+        "name": "Local Accounts"
+    },
+    {
+        "mitre_id": "T1078.004",
+        "name": "Cloud Accounts"
+    }
+]

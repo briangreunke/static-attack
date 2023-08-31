@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1550.001",
+        "name": "Application Access Token"
+    },
+    {
+        "mitre_id": "T1550.002",
+        "name": "Pass the Hash"
+    },
+    {
+        "mitre_id": "T1550.003",
+        "name": "Pass the Ticket"
+    },
+    {
+        "mitre_id": "T1550.004",
+        "name": "Web Session Cookie"
+    }
+]

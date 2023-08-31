@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1037.001",
+        "name": "Logon Script (Windows)"
+    },
+    {
+        "mitre_id": "T1037.002",
+        "name": "Login Hook"
+    },
+    {
+        "mitre_id": "T1037.003",
+        "name": "Network Logon Script"
+    },
+    {
+        "mitre_id": "T1037.004",
+        "name": "RC Scripts"
+    },
+    {
+        "mitre_id": "T1037.005",
+        "name": "Startup Items"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1587.001",
+        "name": "Malware"
+    },
+    {
+        "mitre_id": "T1587.002",
+        "name": "Code Signing Certificates"
+    },
+    {
+        "mitre_id": "T1587.003",
+        "name": "Digital Certificates"
+    },
+    {
+        "mitre_id": "T1587.004",
+        "name": "Exploits"
+    }
+]

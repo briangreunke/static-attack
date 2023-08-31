@@ -1,0 +1,34 @@
+[
+    {
+        "mitre_id": "T1003.001",
+        "name": "LSASS Memory"
+    },
+    {
+        "mitre_id": "T1003.002",
+        "name": "Security Account Manager"
+    },
+    {
+        "mitre_id": "T1003.003",
+        "name": "NTDS"
+    },
+    {
+        "mitre_id": "T1003.004",
+        "name": "LSA Secrets"
+    },
+    {
+        "mitre_id": "T1003.005",
+        "name": "Cached Domain Credentials"
+    },
+    {
+        "mitre_id": "T1003.006",
+        "name": "DCSync"
+    },
+    {
+        "mitre_id": "T1003.007",
+        "name": "Proc Filesystem"
+    },
+    {
+        "mitre_id": "T1003.008",
+        "name": "/etc/passwd and /etc/shadow"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1505.001",
+        "name": "SQL Stored Procedures"
+    },
+    {
+        "mitre_id": "T1505.002",
+        "name": "Transport Agent"
+    },
+    {
+        "mitre_id": "T1505.003",
+        "name": "Web Shell"
+    },
+    {
+        "mitre_id": "T1505.004",
+        "name": "IIS Components"
+    },
+    {
+        "mitre_id": "T1505.005",
+        "name": "Terminal Services DLL"
+    }
+]

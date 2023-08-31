@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1565.001",
+        "name": "Stored Data Manipulation"
+    },
+    {
+        "mitre_id": "T1565.002",
+        "name": "Transmitted Data Manipulation"
+    },
+    {
+        "mitre_id": "T1565.003",
+        "name": "Runtime Data Manipulation"
+    }
+]

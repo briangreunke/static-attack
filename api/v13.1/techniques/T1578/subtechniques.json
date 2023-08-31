@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1578.001",
+        "name": "Create Snapshot"
+    },
+    {
+        "mitre_id": "T1578.002",
+        "name": "Create Cloud Instance"
+    },
+    {
+        "mitre_id": "T1578.003",
+        "name": "Delete Cloud Instance"
+    },
+    {
+        "mitre_id": "T1578.004",
+        "name": "Revert Cloud Instance"
+    }
+]

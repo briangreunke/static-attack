@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1134.001",
+        "name": "Token Impersonation/Theft"
+    },
+    {
+        "mitre_id": "T1134.002",
+        "name": "Create Process with Token"
+    },
+    {
+        "mitre_id": "T1134.003",
+        "name": "Make and Impersonate Token"
+    },
+    {
+        "mitre_id": "T1134.004",
+        "name": "Parent PID Spoofing"
+    },
+    {
+        "mitre_id": "T1134.005",
+        "name": "SID-History Injection"
+    }
+]

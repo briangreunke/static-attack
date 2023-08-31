@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1110.001",
+        "name": "Password Guessing"
+    },
+    {
+        "mitre_id": "T1110.002",
+        "name": "Password Cracking"
+    },
+    {
+        "mitre_id": "T1110.003",
+        "name": "Password Spraying"
+    },
+    {
+        "mitre_id": "T1110.004",
+        "name": "Credential Stuffing"
+    }
+]

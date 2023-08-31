@@ -1,0 +1,34 @@
+[
+    {
+        "mitre_id": "T1059.001",
+        "name": "PowerShell"
+    },
+    {
+        "mitre_id": "T1059.002",
+        "name": "AppleScript"
+    },
+    {
+        "mitre_id": "T1059.003",
+        "name": "Windows Command Shell"
+    },
+    {
+        "mitre_id": "T1059.004",
+        "name": "Unix Shell"
+    },
+    {
+        "mitre_id": "T1059.005",
+        "name": "Visual Basic"
+    },
+    {
+        "mitre_id": "T1059.006",
+        "name": "Python"
+    },
+    {
+        "mitre_id": "T1059.007",
+        "name": "JavaScript"
+    },
+    {
+        "mitre_id": "T1059.008",
+        "name": "Network Device CLI"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1555.001",
+        "name": "Keychain"
+    },
+    {
+        "mitre_id": "T1555.002",
+        "name": "Securityd Memory"
+    },
+    {
+        "mitre_id": "T1555.003",
+        "name": "Credentials from Web Browsers"
+    },
+    {
+        "mitre_id": "T1555.004",
+        "name": "Windows Credential Manager"
+    },
+    {
+        "mitre_id": "T1555.005",
+        "name": "Password Managers"
+    }
+]

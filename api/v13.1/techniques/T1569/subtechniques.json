@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1569.001",
+        "name": "Launchctl"
+    },
+    {
+        "mitre_id": "T1569.002",
+        "name": "Service Execution"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1606.001",
+        "name": "Web Cookies"
+    },
+    {
+        "mitre_id": "T1606.002",
+        "name": "SAML Tokens"
+    }
+]

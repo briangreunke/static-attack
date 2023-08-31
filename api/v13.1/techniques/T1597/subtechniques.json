@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1597.001",
+        "name": "Threat Intel Vendors"
+    },
+    {
+        "mitre_id": "T1597.002",
+        "name": "Purchase Technical Data"
+    }
+]

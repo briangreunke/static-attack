@@ -1,0 +1,38 @@
+[
+    {
+        "mitre_id": "T1027.001",
+        "name": "Binary Padding"
+    },
+    {
+        "mitre_id": "T1027.002",
+        "name": "Software Packing"
+    },
+    {
+        "mitre_id": "T1027.003",
+        "name": "Steganography"
+    },
+    {
+        "mitre_id": "T1027.004",
+        "name": "Compile After Delivery"
+    },
+    {
+        "mitre_id": "T1027.005",
+        "name": "Indicator Removal from Tools"
+    },
+    {
+        "mitre_id": "T1027.006",
+        "name": "HTML Smuggling"
+    },
+    {
+        "mitre_id": "T1027.007",
+        "name": "Dynamic API Resolution"
+    },
+    {
+        "mitre_id": "T1027.008",
+        "name": "Stripped Payloads"
+    },
+    {
+        "mitre_id": "T1027.009",
+        "name": "Embedded Payloads"
+    }
+]

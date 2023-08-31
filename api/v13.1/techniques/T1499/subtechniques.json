@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1499.001",
+        "name": "OS Exhaustion Flood"
+    },
+    {
+        "mitre_id": "T1499.002",
+        "name": "Service Exhaustion Flood"
+    },
+    {
+        "mitre_id": "T1499.003",
+        "name": "Application Exhaustion Flood"
+    },
+    {
+        "mitre_id": "T1499.004",
+        "name": "Application or System Exploitation"
+    }
+]

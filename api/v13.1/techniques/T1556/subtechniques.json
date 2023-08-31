@@ -1,0 +1,30 @@
+[
+    {
+        "mitre_id": "T1556.001",
+        "name": "Domain Controller Authentication"
+    },
+    {
+        "mitre_id": "T1556.002",
+        "name": "Password Filter DLL"
+    },
+    {
+        "mitre_id": "T1556.003",
+        "name": "Pluggable Authentication Modules"
+    },
+    {
+        "mitre_id": "T1556.004",
+        "name": "Network Device Authentication"
+    },
+    {
+        "mitre_id": "T1556.005",
+        "name": "Reversible Encryption"
+    },
+    {
+        "mitre_id": "T1556.006",
+        "name": "Multi-Factor Authentication"
+    },
+    {
+        "mitre_id": "T1556.007",
+        "name": "Hybrid Identity"
+    }
+]

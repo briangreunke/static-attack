@@ -1,0 +1,26 @@
+[
+    {
+        "mitre_id": "T1553.001",
+        "name": "Gatekeeper Bypass"
+    },
+    {
+        "mitre_id": "T1553.002",
+        "name": "Code Signing"
+    },
+    {
+        "mitre_id": "T1553.003",
+        "name": "SIP and Trust Provider Hijacking"
+    },
+    {
+        "mitre_id": "T1553.004",
+        "name": "Install Root Certificate"
+    },
+    {
+        "mitre_id": "T1553.005",
+        "name": "Mark-of-the-Web Bypass"
+    },
+    {
+        "mitre_id": "T1553.006",
+        "name": "Code Signing Policy Modification"
+    }
+]

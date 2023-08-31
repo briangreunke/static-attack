@@ -1,0 +1,38 @@
+[
+    {
+        "mitre_id": "T1070.001",
+        "name": "Clear Windows Event Logs"
+    },
+    {
+        "mitre_id": "T1070.002",
+        "name": "Clear Linux or Mac System Logs"
+    },
+    {
+        "mitre_id": "T1070.003",
+        "name": "Clear Command History"
+    },
+    {
+        "mitre_id": "T1070.004",
+        "name": "File Deletion"
+    },
+    {
+        "mitre_id": "T1070.005",
+        "name": "Network Share Connection Removal"
+    },
+    {
+        "mitre_id": "T1070.006",
+        "name": "Timestomp"
+    },
+    {
+        "mitre_id": "T1070.007",
+        "name": "Clear Network Connection History and Configurations"
+    },
+    {
+        "mitre_id": "T1070.008",
+        "name": "Clear Mailbox Data"
+    },
+    {
+        "mitre_id": "T1070.009",
+        "name": "Clear Persistence"
+    }
+]

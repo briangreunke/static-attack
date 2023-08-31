@@ -1,0 +1,26 @@
+[
+    {
+        "mitre_id": "T1590.001",
+        "name": "Domain Properties"
+    },
+    {
+        "mitre_id": "T1590.002",
+        "name": "DNS"
+    },
+    {
+        "mitre_id": "T1590.003",
+        "name": "Network Trust Dependencies"
+    },
+    {
+        "mitre_id": "T1590.004",
+        "name": "Network Topology"
+    },
+    {
+        "mitre_id": "T1590.005",
+        "name": "IP Addresses"
+    },
+    {
+        "mitre_id": "T1590.006",
+        "name": "Network Security Appliances"
+    }
+]

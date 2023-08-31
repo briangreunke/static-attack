@@ -1,0 +1,30 @@
+[
+    {
+        "mitre_id": "T1583.001",
+        "name": "Domains"
+    },
+    {
+        "mitre_id": "T1583.002",
+        "name": "DNS Server"
+    },
+    {
+        "mitre_id": "T1583.003",
+        "name": "Virtual Private Server"
+    },
+    {
+        "mitre_id": "T1583.004",
+        "name": "Server"
+    },
+    {
+        "mitre_id": "T1583.005",
+        "name": "Botnet"
+    },
+    {
+        "mitre_id": "T1583.006",
+        "name": "Web Services"
+    },
+    {
+        "mitre_id": "T1583.007",
+        "name": "Serverless"
+    }
+]

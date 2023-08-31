@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1595.001",
+        "name": "Scanning IP Blocks"
+    },
+    {
+        "mitre_id": "T1595.002",
+        "name": "Vulnerability Scanning"
+    },
+    {
+        "mitre_id": "T1595.003",
+        "name": "Wordlist Scanning"
+    }
+]

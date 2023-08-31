@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1543.001",
+        "name": "Launch Agent"
+    },
+    {
+        "mitre_id": "T1543.002",
+        "name": "Systemd Service"
+    },
+    {
+        "mitre_id": "T1543.003",
+        "name": "Windows Service"
+    },
+    {
+        "mitre_id": "T1543.004",
+        "name": "Launch Daemon"
+    }
+]

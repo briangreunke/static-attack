@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1090.001",
+        "name": "Internal Proxy"
+    },
+    {
+        "mitre_id": "T1090.002",
+        "name": "External Proxy"
+    },
+    {
+        "mitre_id": "T1090.003",
+        "name": "Multi-hop Proxy"
+    },
+    {
+        "mitre_id": "T1090.004",
+        "name": "Domain Fronting"
+    }
+]

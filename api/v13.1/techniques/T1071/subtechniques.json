@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1071.001",
+        "name": "Web Protocols"
+    },
+    {
+        "mitre_id": "T1071.002",
+        "name": "File Transfer Protocols"
+    },
+    {
+        "mitre_id": "T1071.003",
+        "name": "Mail Protocols"
+    },
+    {
+        "mitre_id": "T1071.004",
+        "name": "DNS"
+    }
+]

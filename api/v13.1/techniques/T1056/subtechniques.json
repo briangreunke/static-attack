@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1056.001",
+        "name": "Keylogging"
+    },
+    {
+        "mitre_id": "T1056.002",
+        "name": "GUI Input Capture"
+    },
+    {
+        "mitre_id": "T1056.003",
+        "name": "Web Portal Capture"
+    },
+    {
+        "mitre_id": "T1056.004",
+        "name": "Credential API Hooking"
+    }
+]

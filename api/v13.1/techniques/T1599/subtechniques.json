@@ -1,0 +1,6 @@
+[
+    {
+        "mitre_id": "T1599.001",
+        "name": "Network Address Translation Traversal"
+    }
+]

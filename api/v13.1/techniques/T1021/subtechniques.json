@@ -1,0 +1,26 @@
+[
+    {
+        "mitre_id": "T1021.001",
+        "name": "Remote Desktop Protocol"
+    },
+    {
+        "mitre_id": "T1021.002",
+        "name": "SMB/Windows Admin Shares"
+    },
+    {
+        "mitre_id": "T1021.003",
+        "name": "Distributed Component Object Model"
+    },
+    {
+        "mitre_id": "T1021.004",
+        "name": "SSH"
+    },
+    {
+        "mitre_id": "T1021.005",
+        "name": "VNC"
+    },
+    {
+        "mitre_id": "T1021.006",
+        "name": "Windows Remote Management"
+    }
+]

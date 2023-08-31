@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1497.001",
+        "name": "System Checks"
+    },
+    {
+        "mitre_id": "T1497.002",
+        "name": "User Activity Based Checks"
+    },
+    {
+        "mitre_id": "T1497.003",
+        "name": "Time Based Evasion"
+    }
+]

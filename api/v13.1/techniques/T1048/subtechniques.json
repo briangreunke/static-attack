@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1048.001",
+        "name": "Exfiltration Over Symmetric Encrypted Non-C2 Protocol"
+    },
+    {
+        "mitre_id": "T1048.002",
+        "name": "Exfiltration Over Asymmetric Encrypted Non-C2 Protocol"
+    },
+    {
+        "mitre_id": "T1048.003",
+        "name": "Exfiltration Over Unencrypted Non-C2 Protocol"
+    }
+]

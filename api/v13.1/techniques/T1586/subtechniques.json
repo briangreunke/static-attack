@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1586.001",
+        "name": "Social Media Accounts"
+    },
+    {
+        "mitre_id": "T1586.002",
+        "name": "Email Accounts"
+    },
+    {
+        "mitre_id": "T1586.003",
+        "name": "Cloud Accounts"
+    }
+]

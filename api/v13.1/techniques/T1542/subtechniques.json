@@ -1,0 +1,22 @@
+[
+    {
+        "mitre_id": "T1542.001",
+        "name": "System Firmware"
+    },
+    {
+        "mitre_id": "T1542.002",
+        "name": "Component Firmware"
+    },
+    {
+        "mitre_id": "T1542.003",
+        "name": "Bootkit"
+    },
+    {
+        "mitre_id": "T1542.004",
+        "name": "ROMMONkit"
+    },
+    {
+        "mitre_id": "T1542.005",
+        "name": "TFTP Boot"
+    }
+]

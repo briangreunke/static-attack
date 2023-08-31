@@ -1,0 +1,10 @@
+[
+    {
+        "mitre_id": "T1573.001",
+        "name": "Symmetric Cryptography"
+    },
+    {
+        "mitre_id": "T1573.002",
+        "name": "Asymmetric Cryptography"
+    }
+]

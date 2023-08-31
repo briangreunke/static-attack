@@ -1,0 +1,62 @@
+[
+    {
+        "mitre_id": "T1547.001",
+        "name": "Registry Run Keys / Startup Folder"
+    },
+    {
+        "mitre_id": "T1547.002",
+        "name": "Authentication Package"
+    },
+    {
+        "mitre_id": "T1547.003",
+        "name": "Time Providers"
+    },
+    {
+        "mitre_id": "T1547.004",
+        "name": "Winlogon Helper DLL"
+    },
+    {
+        "mitre_id": "T1547.005",
+        "name": "Security Support Provider"
+    },
+    {
+        "mitre_id": "T1547.006",
+        "name": "Kernel Modules and Extensions"
+    },
+    {
+        "mitre_id": "T1547.007",
+        "name": "Re-opened Applications"
+    },
+    {
+        "mitre_id": "T1547.008",
+        "name": "LSASS Driver"
+    },
+    {
+        "mitre_id": "T1547.009",
+        "name": "Shortcut Modification"
+    },
+    {
+        "mitre_id": "T1547.010",
+        "name": "Port Monitors"
+    },
+    {
+        "mitre_id": "T1547.011",
+        "name": "Plist Modification"
+    },
+    {
+        "mitre_id": "T1547.012",
+        "name": "Print Processors"
+    },
+    {
+        "mitre_id": "T1547.013",
+        "name": "XDG Autostart Entries"
+    },
+    {
+        "mitre_id": "T1547.014",
+        "name": "Active Setup"
+    },
+    {
+        "mitre_id": "T1547.015",
+        "name": "Login Items"
+    }
+]

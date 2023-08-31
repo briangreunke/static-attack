@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1548.001",
+        "name": "Setuid and Setgid"
+    },
+    {
+        "mitre_id": "T1548.002",
+        "name": "Bypass User Account Control"
+    },
+    {
+        "mitre_id": "T1548.003",
+        "name": "Sudo and Sudo Caching"
+    },
+    {
+        "mitre_id": "T1548.004",
+        "name": "Elevated Execution with Prompt"
+    }
+]

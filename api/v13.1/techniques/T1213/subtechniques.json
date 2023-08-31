@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1213.001",
+        "name": "Confluence"
+    },
+    {
+        "mitre_id": "T1213.002",
+        "name": "Sharepoint"
+    },
+    {
+        "mitre_id": "T1213.003",
+        "name": "Code Repositories"
+    }
+]

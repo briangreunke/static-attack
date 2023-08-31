@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1589.001",
+        "name": "Credentials"
+    },
+    {
+        "mitre_id": "T1589.002",
+        "name": "Email Addresses"
+    },
+    {
+        "mitre_id": "T1589.003",
+        "name": "Employee Names"
+    }
+]

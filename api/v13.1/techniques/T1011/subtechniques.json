@@ -1,0 +1,6 @@
+[
+    {
+        "mitre_id": "T1011.001",
+        "name": "Exfiltration Over Bluetooth"
+    }
+]

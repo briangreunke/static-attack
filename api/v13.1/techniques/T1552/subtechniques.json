@@ -1,0 +1,30 @@
+[
+    {
+        "mitre_id": "T1552.001",
+        "name": "Credentials In Files"
+    },
+    {
+        "mitre_id": "T1552.002",
+        "name": "Credentials in Registry"
+    },
+    {
+        "mitre_id": "T1552.003",
+        "name": "Bash History"
+    },
+    {
+        "mitre_id": "T1552.004",
+        "name": "Private Keys"
+    },
+    {
+        "mitre_id": "T1552.005",
+        "name": "Cloud Instance Metadata API"
+    },
+    {
+        "mitre_id": "T1552.006",
+        "name": "Group Policy Preferences"
+    },
+    {
+        "mitre_id": "T1552.007",
+        "name": "Container API"
+    }
+]

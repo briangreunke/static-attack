@@ -1,0 +1,14 @@
+[
+    {
+        "mitre_id": "T1559.001",
+        "name": "Component Object Model"
+    },
+    {
+        "mitre_id": "T1559.002",
+        "name": "Dynamic Data Exchange"
+    },
+    {
+        "mitre_id": "T1559.003",
+        "name": "XPC Services"
+    }
+]

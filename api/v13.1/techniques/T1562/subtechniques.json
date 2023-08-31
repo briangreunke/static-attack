@@ -1,0 +1,38 @@
+[
+    {
+        "mitre_id": "T1562.001",
+        "name": "Disable or Modify Tools"
+    },
+    {
+        "mitre_id": "T1562.002",
+        "name": "Disable Windows Event Logging"
+    },
+    {
+        "mitre_id": "T1562.003",
+        "name": "Impair Command History Logging"
+    },
+    {
+        "mitre_id": "T1562.004",
+        "name": "Disable or Modify System Firewall"
+    },
+    {
+        "mitre_id": "T1562.006",
+        "name": "Indicator Blocking"
+    },
+    {
+        "mitre_id": "T1562.007",
+        "name": "Disable or Modify Cloud Firewall"
+    },
+    {
+        "mitre_id": "T1562.008",
+        "name": "Disable Cloud Logs"
+    },
+    {
+        "mitre_id": "T1562.009",
+        "name": "Safe Mode Boot"
+    },
+    {
+        "mitre_id": "T1562.010",
+        "name": "Downgrade Attack"
+    }
+]

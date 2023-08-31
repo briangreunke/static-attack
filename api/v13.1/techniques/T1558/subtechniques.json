@@ -1,0 +1,18 @@
+[
+    {
+        "mitre_id": "T1558.001",
+        "name": "Golden Ticket"
+    },
+    {
+        "mitre_id": "T1558.002",
+        "name": "Silver Ticket"
+    },
+    {
+        "mitre_id": "T1558.003",
+        "name": "Kerberoasting"
+    },
+    {
+        "mitre_id": "T1558.004",
+        "name": "AS-REP Roasting"
+    }
+]
